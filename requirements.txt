@@ -1,0 +1,1 @@
+ultralytics transformers torch paddlepaddle paddleocr opencv-python pillow google-genai
