@@ -10,7 +10,7 @@ from google import genai  #  Google Gen AI SDK
 model = YOLO("yolov8n.pt")
 
 # Initialize Gemini API Client
-GEMINI_API_KEY = "AIzaSyDSvUD47qMi0rUFttCi01-HTQiHMxURqxM"
+GEMINI_API_KEY = ""
 gemini_client = genai.Client(api_key=GEMINI_API_KEY)
 
 # Load image
